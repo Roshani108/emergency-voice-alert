@@ -1,0 +1,35 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit logs
+*.log
+
+# Virtual environments
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Video/audio cache (optional)
+*.mp4
+*.wav
+*.avi
+*.mov
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Temporary files
+*.bak
+*.swp
