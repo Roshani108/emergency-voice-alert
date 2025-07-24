@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚨 Emergency Voice Alert System
 
 A **Streamlit-based emergency alert app** that listens for emergency phrases like **"help"**, **"emergency"**, or **"save me"** and instantly:
@@ -122,3 +123,6 @@ GitHub: Roshani108
 
 📜 License
 MIT License © 2025 Roshani
+=======
+# emergency-voice-alert
+A voice-activated emergency alert app with location and email features.
