@@ -1,35 +1,14 @@
-# Python bytecode and cache
 __pycache__/
-*.py[cod]
-
-# Environment
-.env
-*.env
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Streamlit logs
+*.pyc
+*.pyo
+*.pyd
+*.db
 *.log
-
-# Virtual environments
-venv/
-env/
-
-# IDEs
+.env
+.env.*
 .vscode/
 .idea/
-
-# Video/audio cache (optional)
-*.mp4
-*.wav
-*.avi
-*.mov
-
-# Jupyter/IPython
-.ipynb_checkpoints/
-
-# Temporary files
-*.bak
-*.swp
+.DS_Store
+assets/*.mp4
+assets/*.gif
+assets/*.png
