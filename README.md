@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚨 Emergency Voice Alert System
 
 A **Streamlit-based emergency alert app** that listens for emergency phrases like **"help"**, **"emergency"**, or **"save me"** and instantly:
